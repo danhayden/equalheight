@@ -1,0 +1,19 @@
+{
+  "name": "equalheight",
+  "version": "1.0.0",
+  "description": "Small utility to make DOM elements equal height when they have to same top offset",
+  "author": "https://github.com/danhayden",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danhayden/equalheight.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danhayden/equalheight/issues"
+  },
+  "homepage": "https://github.com/danhayden/equalheight"
+}
