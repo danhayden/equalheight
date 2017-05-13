@@ -1,6 +1,6 @@
 {
   "name": "equalheight",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Small utility to make DOM elements equal height when they have to same top offset",
   "author": "https://github.com/danhayden",
   "license": "MIT",
